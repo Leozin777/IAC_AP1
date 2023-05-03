@@ -4,6 +4,7 @@
 * Lucas Rodrigues
 * Tiago Sjlender
 * Marcos Rocha
+* Henrique
 
 ### Branchs:
 * Main (criada pelo git)
